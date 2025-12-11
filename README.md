@@ -48,7 +48,7 @@ Transform career development through intelligent, personalized AI guidance.
 
 ```bash
 # Clone Repository
-git clone https://github.com/panduthegang/AI-Powered-Career-Coach.git
+git clone https://github.com/Sanjana-L031/ai-career-guidance-system.git
 
 # Install Dependencies
 npm install
